@@ -1,0 +1,37 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">MultiLang App</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Login to Your Account</string>
+    <string name="login">Login</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password</string>
+    <string name="invalid_credentials">Invalid username or password</string>
+
+    <!-- Home Screen -->
+    <string name="welcome_message">Welcome to Multilingual  App</string>
+    <string name="welcome_messages">Google Translate right A study reveals that Google Translate\'s accuracy rate varies greatly across the supported language pairs from 55 to 94 percent, and the overall accuracy is 82.5 percent</string>
+
+    <!-- Profile Screen -->
+
+    <string name="username_display">Username: </string>
+    <string name="password_display">Password: ********</string>
+    <string name="logout">Logout</string>
+
+    <!-- Articles Screen -->
+
+    <string name="article_sample">This is a sample article.</string>
+
+    <!-- Bottom Navigation -->
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="articles">Articles</string>
+
+    <!-- Language Dropdown -->
+    <string-array name="languages">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Spanish</item>
+    </string-array>
+</resources>

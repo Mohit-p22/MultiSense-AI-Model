@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">मल्टीलैंग ऐप</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">अपने खाते में लॉगिन करें</string>
+    <string name="login">लॉगिन</string>
+    <string name="username">यूज़रनेम दर्ज करें</string>
+    <string name="password">पासवर्ड दर्ज करें</string>
+    <string name="invalid_credentials">अमान्य यूज़रनेम या पासवर्ड</string>
+
+    <!-- Home Screen -->
+    <string name="welcome_message">मुल्टीलिंगाल ऐप में आपका स्वागत है</string>
+    <string name="welcome_messages">Google Translate सही है एक अध्ययन से पता चलता है कि Google Translate की सटीकता दर समर्थित भाषा युग्मों में 55 से 94 प्रतिशत तक भिन्न होती है, और समग्र सटीकता 82.5 प्रतिशत है</string>
+    <!-- Profile Screen -->
+
+    <string name="username_display">यूज़रनेम: </string>
+    <string name="password_display">पासवर्ड: ********</string>
+    <string name="logout">लॉगआउट</string>
+
+    <!-- Articles Screen -->
+
+    <string name="article_sample">यह एक नमूना लेख है।</string>
+
+    <!-- Bottom Navigation -->
+    <string name="home">होम</string>
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="articles">लेख</string>
+
+    <!-- Language Dropdown -->
+    <string-array name="languages">
+        <item>अंग्रेज़ी</item>
+        <item>हिंदी</item>
+        <item>स्पेनिश</item>
+    </string-array>
+</resources>
