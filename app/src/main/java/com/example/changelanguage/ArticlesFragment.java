@@ -37,7 +37,7 @@ public class ArticlesFragment extends Fragment {
 
     private String selectedLanguage = "English"; // Default
 
-    private static final String REQUEST_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB55aJb1ZWWVI-xytJLUWEXgFqfNrpVa2g";
+    private static final String REQUEST_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=YOUR_API_KEY";
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
